@@ -1,5 +1,5 @@
-5e9d1f8bfa3d0dfca7aae926e015c0e9 *DESCRIPTION
-55356ccf98f0f2b0e2021a89f6116351 *NAMESPACE
+d519798fa32013680ba4d70820fa950b *DESCRIPTION
+0fa34b4e17bfb5ce4072d4e015d8a45d *NAMESPACE
 3f16ab83c8a2aef23b3094f4b9025435 *R/ZeligGAM-package.R
 c0faec190727f8364cb465da2dcb3123 *R/anova.zelig.R
 a07a7d713e97c3ed6805e28cfefa62c4 *R/common-methods.R
@@ -26,11 +26,13 @@ de4f9198240b2495e03f08ae9c004b0b *R/zelig2logit.gam.R
 6c4f90e26624a1f4a9a47a915ca2b37e *R/zelig2poisson.gam.R
 5a15d52293145ea2a11c0b675ccfd77b *R/zelig2probit.gam.R
 d252434b2754027f4d21310e1464bdac *README
+7ab3423f96e965fe54313c8c1ff41fd2 *build/vignette.rds
 6b8b888bbe9b21aff918f8290d69db56 *demo/00Index
 e3a48c84b82d166ab3c78426d9d2369e *demo/logit.gam.R
 7f9e4ad81c1bfa01989dc7baa785ac69 *demo/normal.gam.R
 d4baec358d0012bab3def592f5a092c8 *demo/poisson.gam.R
 c3b0d240e042913296ec1b70fd423dac *demo/probit.gam.R
+171170469f30f6f2583f31e24e3fc7d6 *inst/doc/ZeligGAM.R
 161a9564afa469344fafbb3eb538a928 *inst/doc/ZeligGAM.Rnw
 de0d884f52325750645a1d98dc42a798 *inst/doc/ZeligGAM.pdf
 85d8f3d2dba616e38f2e18609442b66b *man/GAMplot.Rd
@@ -49,7 +51,6 @@ c08badd3d1948349961b56395ae6918d *man/zelig2logit.gam.Rd
 dea390e20b3975c2b23976b1ff9cd353 *man/zelig2poisson.gam.Rd
 fb1c01a4a9668d0b69742fe61196d244 *man/zelig2probit.gam.Rd
 aa36d1e3a35bf5f34b54234da15d5927 *tests/tests.R
-de1aeda81e8c8ab6ded25df5ae2dbfab *vignettes/Sweave.sty
 4450195b526e9fe4538fe12d0b4e16ed *vignettes/Zelig.sty
 161a9564afa469344fafbb3eb538a928 *vignettes/ZeligGAM.Rnw
 427dc4655f663598562dce3e5c57623e *vignettes/ZeligGAM.bib
